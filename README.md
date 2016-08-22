@@ -1,2 +1,2 @@
-# InvertProxy
-An Invertebrate Proxy for Fish Planktivory Explains Zooplankton Community Size Structure
+# DepthAndZooplanktonSizeStructure
+Lake Depth and Maximum Trophic Level Explain Zooplankton Community Size Structure in Canadian Shield Lakes
